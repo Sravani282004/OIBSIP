@@ -5,7 +5,7 @@ public class GuessTheNumber {
     public static void main(String[] args) {
         final int MIN_RANGE = 1;
         final int MAX_RANGE = 100;
-        final int MAX_ATTEMPTS = 20;
+        final int MAX_ATTEMPTS = 5;
         final int MAX_POINTS = 10; 
 
         Random random = new Random();
